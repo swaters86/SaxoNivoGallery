@@ -1,0 +1,7 @@
+<li>
+	<iframe width="280" height="158" src="<%StreamLink%>" frameborder="0" allowfullscreen></iframe>
+	<p>
+		<%description%>
+	</p>
+</li>
+

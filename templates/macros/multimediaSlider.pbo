@@ -1,0 +1,3 @@
+<div id="gallery" class="nivoGallery">
+   <pbs:newslist category="<%myCategory%>" useobjects="1" objectclass="9998" multimedia=1 count="<%myCount%>" days="<%myDays%>">
+</div>  
